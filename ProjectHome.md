@@ -1,0 +1,1 @@
+A C++ OpenGL implementation of the Connected Component Labeling algorithm.
